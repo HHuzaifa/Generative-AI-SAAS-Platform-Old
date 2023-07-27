@@ -14,4 +14,4 @@ export const UserAvatar = () => {
       </AvatarFallback>
     </Avatar>
   );
-};
+}; 
